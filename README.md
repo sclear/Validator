@@ -1,4 +1,4 @@
-# j_validator
+# j_validator(异步验证)
 ---
 
 ### 验证
